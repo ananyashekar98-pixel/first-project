@@ -27,7 +27,6 @@ public class GradeCalculator {
             System.out.println("Grade: C");
         else
             System.out.println("Grade: Fail");
-
         sc.close();
     }
 }
